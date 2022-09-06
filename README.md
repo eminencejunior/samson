@@ -1,2 +1,5 @@
 # samson
-My Website
+Website
+git add .
+git commit -m update
+git push
