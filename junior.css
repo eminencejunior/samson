@@ -8,3 +8,6 @@ p {
 body {
     background-color: aqua;
 }
+table, th, td {
+    border-radius: 5px;
+}
