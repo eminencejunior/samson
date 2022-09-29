@@ -1,0 +1,57 @@
+div {
+    display: flex;
+    flex-direction: row;
+  color: white;
+  font-family: sans-serif;
+  height: 30px;
+  padding: 5px;
+
+  font-size: 5px;
+  height: 50px;
+}
+main {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+  color: white;
+  font-family: sans-serif;
+  height: 30px;
+  
+}
+.p {
+  float: right;
+}
+h2 {
+  font-family: verdana;
+  font-size: 250%;
+  font-weight: light;
+}
+.paragraph {
+  color: dimgrey;
+  font-size: large;
+}
+img {
+  margin-left: 200px;
+  height: 400px;
+}
+a {
+  background-color: black;
+  color: whitesmoke;
+  border-radius: 5px;
+}
+body {
+  background-image: url("bisola.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 500px 300px;
+}
+button {
+    display: flex;
+    justify-content: end;
+    align-self: center;
+    height: 20px;
+    margin-right: 100px;
+}
+.money {
+  color: chocolate;
+}
