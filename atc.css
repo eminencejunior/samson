@@ -1,6 +1,3 @@
-body {
-  font-family: sans-serif;
-}
 section {
   background-color: #1207ab;
   font-family: sans-serif;
@@ -10,6 +7,13 @@ section {
   margin-left: -17px;
   margin-right: -10px;
 }
+.pop {
+  background-color: white;
+}
+|.Tech {
+  margin-right: 15px;
+}
+
 .p {
   float: right;
 }
@@ -28,12 +32,19 @@ h2 {
   font-weight: lighter;
 }
 img {
-  margin-left: 200px;
+  margin-left: 500px;
+  margin-top: 30px;
   height: 400px;
+}
+div {
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction: row;
 }
 .update {
   font-size: x-small;
-  padding-top: 15px;
+  padding-top: 25px;
   padding-left: 35px;
 }
 a {
@@ -42,10 +53,7 @@ a {
   border-radius: 5px;
 }
 body {
-  background-image: url("bisola.png");
-  background-position: right;
-  background-repeat: no-repeat;
-  background-size: 500px 400px;
+  font-family: sans-serif;
 }
 button {
   float: right;
