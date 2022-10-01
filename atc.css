@@ -14,7 +14,7 @@ section {
   background-color: white;
 }
 .register {
-  margin-left: 390px;
+  margin-left: 150px;
 }
 .p {
   float: right;
@@ -42,7 +42,7 @@ h2 {
   font-weight: lighter;
 }
 img {
-  margin-left: 450px;
+  margin-left: 300px;
   margin-top: 30px;
   height: 400px;
 }
@@ -81,17 +81,24 @@ button {
   display: flex;
   justify-content: center;
   text-decoration: 5px blue underline;
-  margin-right: 100px;
+  margin-right: 250px;
   color: grey;
   margin-top: 10px;
 }
 .contact {
   display: flex;
   justify-content: center;
-  margin-left: 900px;
-  margin-top: -17px;
+  margin-left: 650px;
+  margin-top: 20px;
   background-color: white;
   color: grey;
   border: 2px solid black;
   padding: 5px 25px;
+}
+.me {
+  display: flex;
+  justify-content: center;
+  word-spacing: 5px;
+  margin-top: 20px;
+
 }
