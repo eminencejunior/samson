@@ -1,19 +1,32 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
 section {
   background-color: #1207ab;
   font-family: sans-serif;
   color: #ffffff;
   height: 70px;
   margin-top: -9px;
-  margin-left: -17px;
   margin-right: -10px;
 }
 .pop {
   background-color: white;
 }
+.register {
+  margin-left: 390px;
+}
 .p {
   float: right;
 }
+.op {
+  margin-left: 30px;
+}
 .dammy {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 35px;
+  margin-top: 40px;
   font-size: 40px;
   font-family: sans-serif;
 }
@@ -25,21 +38,22 @@ h2 {
 .paragraph {
   color: dimgrey;
   font-size: small;
+  margin-left: 37px;
   font-weight: lighter;
 }
 img {
-  margin-left: 500px;
+  margin-left: 450px;
   margin-top: 30px;
   height: 400px;
 }
 div {
   display: flex;
-  justify-content:center;
-  align-items:center;
+  justify-content: center;
+  align-items: center;
   flex-direction: row;
 }
 .update {
-  font-size: x-small;
+  font-size: large;
   padding-top: 25px;
   padding-left: 35px;
 }
@@ -52,15 +66,32 @@ body {
   font-family: sans-serif;
 }
 button {
-  float: right;
   border-color: #ffffff;
   border-radius: 5px;
   margin-right: 20px;
   height: -2px;
-  margin-top: -23px;
+  margin-top: 0px;
   color: white;
   background-color: #1207ab;
 }
 .money {
   color: chocolate;
+}
+.Tech {
+  display: flex;
+  justify-content: center;
+  text-decoration: 5px blue underline;
+  margin-right: 100px;
+  color: grey;
+  margin-top: 10px;
+}
+.contact {
+  display: flex;
+  justify-content: center;
+  margin-left: 900px;
+  margin-top: -17px;
+  background-color: white;
+  color: grey;
+  border: 2px solid black;
+  padding: 5px 25px;
 }
