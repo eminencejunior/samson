@@ -137,6 +137,9 @@ button {
 .cisco {
   margin-left: 35px;
 }
+.guy {
+  margin-left: -100px;
+}
 
 #myheader {
   font-size: 20px;
