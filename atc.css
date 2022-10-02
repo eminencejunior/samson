@@ -77,28 +77,41 @@ button {
 .money {
   color: chocolate;
 }
-.Tech {
+.me {
   display: flex;
   justify-content: center;
-  text-decoration: 5px blue underline;
   margin-right: 250px;
   color: grey;
   margin-top: 10px;
 }
-.contact {
-  display: flex;
-  justify-content: center;
-  margin-left: 650px;
-  margin-top: 20px;
-  background-color: white;
-  color: grey;
-  border: 2px solid black;
-  padding: 5px 25px;
+.green {
+  background-color: #ffffff;
+  color: black;
+  border-bottom:  5px solid blue; 
 }
-.me {
-  display: flex;
-  justify-content: center;
-  word-spacing: 5px;
-  margin-top: 20px;
-
+.blue{
+  background-color: #ffffff;
+  color: black;
+ border-bottom:  5px solid blue; 
+}
+.yellow {
+  background-color: #ffffff;
+  color: black;
+  border-bottom:  5px solid blue; 
+}
+.red {
+  background-color: #ffffff;
+  color: black;
+  border-bottom:  5px solid blue; 
+}
+.contact {
+  background-color: #ffffff;
+  color: black;
+}
+.samson {
+  background-color: rgb(7, 0, 0);
+  margin-left: 35px;
+  padding: 25px;
+  padding-top: 10px;
+  height: 30px;
 }
