@@ -112,7 +112,7 @@ button {
 #monitor {
   font-size: 20px;
   margin-left: -730px;
-  margin-top: 200px;
+  margin-top: 100px;
   opacity: 0.5;
 }
 .class {
@@ -125,6 +125,16 @@ button {
   margin-left: 35px;
 }
 .python {
+  margin-left: 35px;
+}
+.google {
+  margin-left: 35px;
+}
+.eminent {
+  margin-left: 0%;
+  padding: 0%;
+}
+.cisco {
   margin-left: 35px;
 }
 
