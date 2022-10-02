@@ -109,9 +109,28 @@ button {
 .frcm {
   margin-left: 35px;
 }
+#monitor {
+  font-size: 20px;
+  margin-left: -730px;
+  margin-top: 200px;
+  opacity: 0.5;
+}
+.class {
+  margin-left: 35px; 
+}
+.microsoft {
+  margin-left: 35px;
+}
+.java {
+  margin-left: 35px;
+}
+.python {
+  margin-left: 35px;
+}
+
 #myheader {
   font-size: 20px;
-  margin-left: -890px;
+  margin-left: -730px;
   margin-top: 200px;
   opacity: 0.5;
 }
@@ -143,4 +162,16 @@ button {
 }
 .yellow:hover {
   border-bottom: hidden;
+}
+.mesa {
+  margin-left: 35px;
+}
+.cloud {
+  margin-left: 35px;
+}
+.ambiosh {
+  margin-left: 35px;
+}
+.face {
+  margin-left: 35px;
 }
