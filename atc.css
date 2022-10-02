@@ -14,7 +14,7 @@ section {
   background-color: white;
 }
 .register {
-  margin-left: 150px;
+  margin-left: 350px;
 }
 .p {
   float: right;
@@ -39,6 +39,7 @@ h2 {
   color: dimgrey;
   font-size: small;
   margin-left: 37px;
+  margin-top: 20px;
   font-weight: lighter;
 }
 img {
@@ -83,35 +84,63 @@ button {
   margin-right: 250px;
   color: grey;
   margin-top: 10px;
+  margin-left: 300px;
 }
 .green {
   background-color: #ffffff;
   color: black;
-  border-bottom:  5px solid blue; 
+  border-bottom: 5px solid blue;
 }
-.blue{
+.blue {
   background-color: #ffffff;
   color: black;
- border-bottom:  5px solid blue; 
+  border-bottom: 5px solid blue;
 }
 .yellow {
   background-color: #ffffff;
   color: black;
-  border-bottom:  5px solid blue; 
+  border-bottom: 5px solid blue;
 }
 .red {
   background-color: #ffffff;
   color: black;
-  border-bottom:  5px solid blue; 
+  border-bottom: 5px solid blue;
+}
+.frcm {
+  margin-left: 35px;
+}
+#myheader {
+  font-size: 20px;
+  margin-left: -890px;
+  margin-top: 200px;
+  opacity: 0.5;
+}
+.mesa {
+  margin-left: 35px;
 }
 .contact {
   background-color: #ffffff;
   color: black;
+  margin-left: 50px;
+  padding: 0px 15px;
 }
 .samson {
   background-color: rgb(7, 0, 0);
   margin-left: 35px;
+  margin-top: 20px;
   padding: 25px;
   padding-top: 10px;
   height: 30px;
+}
+.green:hover {
+  border-bottom: hidden;
+}
+.blue:hover {
+  border-bottom: hidden;
+}
+.red:hover {
+  border-bottom: hidden;
+}
+.yellow:hover {
+  border-bottom: hidden;
 }
