@@ -255,6 +255,10 @@ main {
   margin-left: 500px;
   
 }
+.chair {
+  background-color: #1207ab;
+  color: #ffffff;
+}
 body {
   max-width: 100%;
   width: 100%;
