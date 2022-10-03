@@ -258,7 +258,8 @@ main {
 .chair {
   background-color: #1207ab;
   color: #ffffff;
-  margin-left: -1125px;
+  margin-left: -140px;
+  padding-top: 60px;
   font-size: 60px;
 }
 
@@ -266,5 +267,7 @@ body {
   max-width: 100%;
   width: 100%;
 }
-.bag {
+.clock {
+  margin-left: 200px;
+  height: 800px;
 }
