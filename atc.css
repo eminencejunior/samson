@@ -258,8 +258,13 @@ main {
 .chair {
   background-color: #1207ab;
   color: #ffffff;
+  margin-left: -1125px;
+  font-size: 60px;
 }
+
 body {
   max-width: 100%;
   width: 100%;
+}
+.bag {
 }
