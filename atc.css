@@ -10,6 +10,10 @@ section {
   margin-top: -9px;
   margin-right: -10px;
 }
+.junior {
+  margin-left: 50px;
+  opacity: 0.5;
+}
 .pop {
   background-color: white;
 }
@@ -53,7 +57,10 @@ div {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-
+}
+.table {
+  margin-right: 15px;
+  border-radius: 15px;
 }
 img {
   height: 200px;
@@ -86,7 +93,7 @@ button {
 .me {
   display: flex;
   justify-content: center;
-  margin-right: 500px;
+  margin-right: 200px;
   color: grey;
   margin-top: 10px;
   margin-left: 300px;
@@ -139,11 +146,22 @@ button {
   margin-left: 0%;
   padding: -900px;
 }
+.grey {
+  margin-right: 15px;
+  border-radius: 15px;
+}
+.png {
+  margin-right: 15px;
+  border-radius: 15px;
+}
+.lady {
+  border-radius: 15px;
+}
 .cisco {
   margin-left: 35px;
 }
 .guy {
-  margin: 0;
+  margin:0%
 }
 
 #myheader {
@@ -158,6 +176,7 @@ button {
 .contact {
   background-color: #ffffff;
   color: black;
+  padding: 0px 15px;
   margin-left: 0px;
   
 }
