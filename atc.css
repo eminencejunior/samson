@@ -55,15 +55,17 @@ h2 {
   height: 700px;
 }
 div {
-  margin-left: -590px;
+  margin-left: -430px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: row;
 }
+
 .table {
   margin-right: 15px;
   border-radius: 15px;
+  height: 400px;
 }
 img {
   height: 200px;
@@ -92,6 +94,22 @@ button {
 }
 .money {
   color: chocolate;
+}
+.grey:hover {
+   color: black;
+   height: 470px;
+}
+.png:hover {
+  color: black;
+   height: 470px;
+}
+.lady:hover {
+  color: black;
+   height: 470px;
+}
+.table:hover {
+  color: black;
+   height: 470px;
 }
 .me {
   display: flex;
@@ -155,13 +173,16 @@ button {
 .grey {
   margin-right: 15px;
   border-radius: 15px;
+  height: 400px
 }
 .png {
   margin-right: 15px;
   border-radius: 15px;
+  height: 400px;
 }
 .lady {
   border-radius: 15px;
+  height: 400px;
 }
 .cisco {
   margin-left: 35px;
