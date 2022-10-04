@@ -277,4 +277,8 @@ body {
     justify-content: center;
     flex-direction: column;
   }
+  .img {
+    display: flex;
+    justify-content: ;
+  }
 }
