@@ -272,5 +272,9 @@ body {
   height: 800px;
 }
 @media screen and (min-width:500px) {
-  
+  body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
 }
