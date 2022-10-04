@@ -271,3 +271,6 @@ body {
   margin-left: 200px;
   height: 800px;
 }
+@media screen and (min-width:500px) {
+  
+}
