@@ -271,6 +271,20 @@ body {
   margin-left: 200px;
   height: 800px;
 }
+b {
+  margin-left: -1175px;
+  margin-top: -500px;
+}
+.header {
+  border: 1px solid blue;
+  background-color: blue;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: -1600px;
+  margin-top: 400px;
+  font-size: 20px;
+  padding: 15px 55px;
+}
 @media screen and (min-width:500px) {
   body {
     display: flex;
